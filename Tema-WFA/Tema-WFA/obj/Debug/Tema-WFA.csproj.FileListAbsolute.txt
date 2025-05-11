@@ -1,0 +1,11 @@
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\bin\Debug\Tema-WFA.exe.config
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\bin\Debug\Tema-WFA.exe
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\bin\Debug\Tema-WFA.pdb
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\obj\Debug\Tema-WFA.csproj.AssemblyReference.cache
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\obj\Debug\Tema_WFA.Form1.resources
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\obj\Debug\Tema_WFA.Properties.Resources.resources
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\obj\Debug\Tema-WFA.csproj.GenerateResource.cache
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\obj\Debug\Tema-WFA.csproj.CoreCompileInputs.cache
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\obj\Debug\Tema-WFA.exe
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\obj\Debug\Tema-WFA.pdb
+C:\Users\dturc\source\repos\Tema-WFA\Tema-WFA\obj\Debug\Tema_WFA.Form2.resources
